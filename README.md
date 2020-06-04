@@ -3,6 +3,6 @@
 ![text](cartracker.PNG)
 
 
-![text](peopletracking.PNG)
+![text](peopletracker.PNG)
 
 ![text](mouse.PNG)
