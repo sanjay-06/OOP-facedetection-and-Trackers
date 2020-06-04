@@ -1,6 +1,6 @@
 # OOP-facedetection-and-Trackers
 
-![TEXT](car tracker.PNG)
+![text](car tracker.PNG)
 
 ![text](people Tracking.PNG)
 
