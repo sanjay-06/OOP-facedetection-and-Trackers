@@ -1,5 +1,5 @@
 # OOP-facedetection-and-Trackers
 
-![TEXT](car tracker.png)
-![text](people Tracking.png)
-![text](mouse.png)
+![TEXT](car tracker.PNG)
+![text](people Tracking.PNG)
+![text](mouse.PNG)
